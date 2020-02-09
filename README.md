@@ -1,7 +1,7 @@
-<center>
+<p align="center">
 [logo]: https://nibgat.com/apps/twitchchat/sources/assets/images/logo128.png
 ![alt text][logo]
-</center>
+</p>
 
 # NİBGAT® | Twitch Chat
 Twitch Chat projesi NİBGAT® | Topluluğunun Çay Core Twitch yayınlarında ürettiği ve geliştirdiği bir Chat ek yazılımıdır.
