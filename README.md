@@ -1,4 +1,4 @@
-[logo]: https://nibgat.com/apps/twitchchat/sources/assets/images/logo.png
+[logo]: https://nibgat.com/apps/twitchchat/sources/assets/images/logo48.png
 ![alt text][logo]
 
 # NİBGAT® | Twitch Chat
