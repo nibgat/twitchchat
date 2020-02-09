@@ -1,6 +1,9 @@
 <p align="center">
-[logo]: https://nibgat.com/apps/twitchchat/sources/assets/images/logo128.png
-![alt text][logo]
+    <img
+        src="https://nibgat.com/apps/twitchchat/sources/assets/images/logo128.png"
+        width="75px"
+        height="75px"
+    />
 </p>
 
 # NİBGAT® | Twitch Chat
