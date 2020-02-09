@@ -10,6 +10,10 @@
 Twitch Chat projesi NİBGAT® | Topluluğunun Çay Core Twitch yayınlarında ürettiği ve geliştirdiği bir Chat ek yazılımıdır.
 Proje Open Source olarak geliştirilmiştir. Geliştirmelerinizi göndermeniz halinde projeye dahil edeceğiz.
 
+## İndirme Linkleri
+#### Linux
+[Debian / Ubuntu .deb](https://depo.nibgat.com/index.php/s/7qPdxZtriXd1dIn)
+
 ## Açıklama
 Proje Electron + React olarak <iframe> tag'i üzerinden belirtilen kanalın chat'ini önünüze sermektedir. Tek yapmanız gereken
 üst kısımda ki bar'a kanalın nickname'ini yazıp bağlan butonuna tıklamaktır.
